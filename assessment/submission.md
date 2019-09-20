@@ -1,0 +1,13 @@
+- Siti Nurfajiha Binti Hashim
+- APU, Software Engineering
+- playing games
+
+- to manage the open source code efficiently
+- centralised/distributed control version system
+- git revert
+- folder that can track the changes
+- git commit
+- push to remote repository
+- pull latest from remote repository 
+- a clone is a local copy of some remote repository,  fork is a copy of a repository. It allows you to freely experiment with changes without affecting the original project while branch is a unique set of code changes with a unique name
+- Maybe
